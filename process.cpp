@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    freopen("wxh.txt","r",stdin);
+    freopen("Claris.txt","r",stdin);
     freopen("pro.txt","w",stdout);
     string s;
     while (getline(cin,s))
